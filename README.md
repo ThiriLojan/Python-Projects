@@ -22,12 +22,17 @@ PLATFORM USED
 FEATURES
 
 PhoneBook Features :
+
 • Add Contact: Store Name, Phone, Email, And Address.
+
 • Search/Update/Delete Contact: Manage Contact Details.
+
 • Display Contacts: List All Entries.
 
 Track Number Features :
+
 • Location Tracking: Identify Geographical Location.
+
 • API Integration: Use APIs For Accurate Data.
 
 
