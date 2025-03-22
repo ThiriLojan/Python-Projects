@@ -8,13 +8,14 @@ The application features phone number tracking to determine the geographical loc
 
 
 ## **Overview**
-1. Designing this Python-based application involves:  
+→ Designing this Python-based application involves:  
 - Storing contact details  
 - Searching, updating, and deleting contacts  
 - Integrating phone number tracking using the **phonenumbers** library  
 - Optionally enhancing functionality with APIs like **OpenCage Geocode** for improved location accuracy  
 
-2. A GUI designed with **Tkinter** ensures a seamless and intuitive user experience.  
+→ A GUI designed with **Tkinter** ensures a seamless and intuitive user experience.  
+
 
 ## **Platform Used**
 - **Python:** Core language for scripting and application logic  
