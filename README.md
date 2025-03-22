@@ -10,7 +10,7 @@ This repository is designed to help learners and developers explore practical Py
 
 ## **List of Projects**
 
-1. **Track Number & PhoneBook**
+1. **[Track Number & PhoneBook](./Track_Number_PhoneBook)**
    - A Python-based application that manages contacts and tracks phone numbers using APIs for location details.
    - **Tech Stack:** Python, Tkinter, `phonenumbers` library, OpenCage API
 
