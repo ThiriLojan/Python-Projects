@@ -40,7 +40,9 @@ The application features phone number tracking to determine the geographical loc
 To install the required libraries, run the following commands:  
 
 → pip install phonenumbers
+
 → pip install opencage
+
 → pip install folium
 
 
