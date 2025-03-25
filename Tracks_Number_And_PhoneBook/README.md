@@ -1,48 +1,51 @@
-ABOUT
-
-This Project Is A Python-Based Application Designed To Manage A Phone Book And Track Phone Numbers. It Allows Users To Add, Search, Update, And Delete Contact Details Including Phone Numbers, Emails, And Addresses. The Application Features Phone Number Tracking To Determine The Geographical Location Of Contacts Using External APIs. A User-friendly Graphical Interface, Built With Tkinter, Enhances Interaction, Making It Easy To Manage And Track Contact Information Effectively.
+# **Track Number & PhoneBook**
 
 
-OVERVIEW
+## **About**
+This project is a Python-based application designed to manage a phone book and track phone numbers. It allows users to add, search, update, and delete contact details, including phone numbers, emails, and addresses.  
 
-Designing a Python-Based Application For Tracking Phone Numbers And Managing a Phone Book Involves Storing Contact Details, Searching, Updating, And Deleting Contacts. You Can Integrate Phone Number Tracking Using APIs Like Phonenumbers To Determine Location. Optionally, a GUI Using Tkinter Enhances User Interaction And Usability.
-
-
-PLATFORM USED
-
-• Python : Core Language For Scripting And Application Logic.
-
-• Tkinter : For Creating a Graphical User Interface (GUI)
-
-• phonenumbers Library : For Phone Number Validation And Location Tracking.
-
-• External APIs (OpenCage Geocode) : For Enhanced Location Tracking And Additional Data.
+The application features phone number tracking to determine the geographical location of contacts using external APIs. A user-friendly graphical interface, built with **Tkinter**, enhances interaction, making it easy to manage and track contact information effectively.  
 
 
-FEATURES
+## **Overview**
+→ Designing this Python-based application involves:  
+- Storing contact details  
+- Searching, updating, and deleting contacts  
+- Integrating phone number tracking using the **phonenumbers** library  
+- Optionally enhancing functionality with APIs like **OpenCage Geocode** for improved location accuracy  
 
-PhoneBook Features :
-
-• Add Contact: Store Name, Phone, Email, And Address.
-
-• Search/Update/Delete Contact: Manage Contact Details.
-
-• Display Contacts: List All Entries.
-
-Track Number Features :
-
-• Location Tracking: Identify Geographical Location.
-
-• API Integration: Use APIs For Accurate Data.
+→ A GUI designed with **Tkinter** ensures a seamless and intuitive user experience.  
 
 
+## **Platform Used**
+- **Python:** Core language for scripting and application logic  
+- **Tkinter:** For creating a graphical user interface (GUI)  
+- **phonenumbers Library:** For phone number validation and location tracking  
+- **External APIs (OpenCage Geocode):** For enhanced location tracking and additional data  
 
 
-Install This Lib
+## **Features**
 
-pip install phonenumbers
+### **PhoneBook Features**
+→ **Add Contact:** Store details like name, phone number, email, and address  
+→ **Search/Update/Delete Contact:** Manage stored contact details efficiently  
+→ **Display Contacts:** View a list of all saved entries  
 
-pip install opencage
+### **Track Number Features**
+→ **Location Tracking:** Identify the geographical location of phone numbers  
+→ **API Integration:** Uses external APIs for accurate data  
 
-pip install folium
 
+## **Installation**
+To install the required libraries, run the following commands:  
+
+→ pip install phonenumbers
+
+→ pip install opencage
+
+→ pip install folium
+
+
+## **Usage**
+
+- Run The Python File
