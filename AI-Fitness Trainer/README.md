@@ -1,4 +1,4 @@
-# AI-Fitness-Trainer 
+# AI-Fitness Trainer 
 
 AI-powered fitness trainer that recognizes and classifies human exercises using real-time pose detection and a rule-based system for repetition counting. Using [MediaPipe], the application analyzes body posture and angles to track form, count repetitions, and help improve workout performance.
 
