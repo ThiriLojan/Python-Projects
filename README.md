@@ -21,12 +21,3 @@ Although each project varies in functionality, the following technologies are co
 
 ### **Core Language**
 - Python (Primary Language)
-
-### **GUI Development**
-- Tkinter (For interactive interfaces)
-
-### **APIs & Libraries**
-- `phonenumbers` (For phone number validation and location tracking)  
-- `OpenCage` (For improved location accuracy)  
-- `folium` (For interactive maps and visualization)  
-
