@@ -12,7 +12,7 @@ This repository is designed to help learners and developers explore practical Py
    - A Python-based application that manages contacts and tracks phone numbers using APIs for location details.
    - **Tech Stack:** Python, Tkinter, `phonenumbers` library, OpenCage API
 
-2. **[AI-Fitness Trainer](./AI-Fitness-Trainer)**
+2. **[AI-Fitness Trainer](./AI-Fitness%20Trainer)**
    - An AI-powered fitness trainer that detects human poses from videos or webcam feeds to recognize exercises and count repetitions using rule-based logic.
    - **Tech Stack:** Python, MediaPipe, OpenCV, NumPy, Flask (for optional web integration)
 
