@@ -56,52 +56,52 @@ This tool is ideal for:
 
 > Run any video file and detect reps:
 
-python main.py -t push-up -vs push-up.mp4
+→ python main.py -t push-up -vs push-up.mp4
 
-python main.py -t pull-up -vs pull-up.mp4
+→ python main.py -t pull-up -vs pull-up.mp4
 
-python main.py -t sit-up -vs sit-up.mp4
+→ python main.py -t sit-up -vs sit-up.mp4
 
-python main.py -t squat -vs squat.mp4
+→ python main.py -t squat -vs squat.mp4
 
-python main.py -t jumping-jacks -vs jumping-jacks.mp4
+→ python main.py -t jumping-jacks -vs jumping-jacks.mp4
 
-python main.py -t russian-twist -vs russian-twist.mp4
+→ python main.py -t russian-twist -vs russian-twist.mp4
 
-python main.py -t crunches -vs crunches.mp4
+→ python main.py -t crunches -vs crunches.mp4
 
-python main.py -t plank -vs plank.mp4
+→ python main.py -t plank -vs plank.mp4
 
-python main.py -t lunges -vs lunges.mp4
+→ python main.py -t lunges -vs lunges.mp4
 
-python main.py -t deadlift -vs deadlift.mp4
+→ python main.py -t deadlift -vs deadlift.mp4
 
-python main.py -t bicep-curl -vs bicep-curl.mp4
+→ python main.py -t bicep-curl -vs bicep-curl.mp4
 
-python main.py -t dumbbell-shoulder-press -vs dumbbell-shoulder-press.mp4
+→ python main.py -t dumbbell-shoulder-press -vs dumbbell-shoulder-press.mp4
 
 > To use your webcam for real-time rep counting:
 
-python main.py -t push-up
+→ python main.py -t push-up
 
-python main.py -t pull-up
+→ python main.py -t pull-up
 
-python main.py -t sit-up
+→ python main.py -t sit-up
 
-python main.py -t squat
+→ python main.py -t squat
 
-python main.py -t jumping-jacks
+→ python main.py -t jumping-jacks
 
-python main.py -t russian-twist
+→ python main.py -t russian-twist
 
-python main.py -t crunches
+→ python main.py -t crunches
 
-python main.py -t plank
+→ python main.py -t plank
 
-python main.py -t lunges
+→ python main.py -t lunges
 
-python main.py -t deadlift
+→ python main.py -t deadlift
 
-python main.py -t bicep-curl
+→ python main.py -t bicep-curl
 
-python main.py -t dumbbell-shoulder-press
+→ python main.py -t dumbbell-shoulder-press
