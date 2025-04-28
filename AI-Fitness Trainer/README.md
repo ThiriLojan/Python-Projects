@@ -6,7 +6,7 @@ AI-powered fitness trainer that recognizes and classifies human exercises using 
 
 ## 🔍 About This Project
 
-The **AI-Fitness-Trainer** project is designed to guide users through fitness exercises by detecting their movements and posture in real-time. Currently It supports **12 exercises** and uses **rule-based logic** (angle comparisons between joints) to track repetitions.
+The **AI-Fitness-Trainer** project is designed to guide users through fitness exercises by detecting their movements and posture in real-time. Currently It supports **11 exercises** and uses **rule-based logic** (angle comparisons between joints) to track repetitions.
 
 This tool is ideal for:
 - Fitness tracking at home 
