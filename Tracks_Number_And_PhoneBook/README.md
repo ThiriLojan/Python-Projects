@@ -20,7 +20,7 @@ The application features phone number tracking to determine the geographical loc
 ## **Platform Used**
 - **Python:** Core language for scripting and application logic  
 - **Tkinter:** For creating a graphical user interface (GUI)  
-- **phonenumbers Library:** For phone number validation and location tracking  
+- **phonenumbers Library:** For Phone Number validation and location tracking  
 - **External APIs (OpenCage Geocode):** For enhanced location tracking and additional data  
 
 
